@@ -1,1 +1,1 @@
-# jsprojetoart-stico
+# jsprojetoartístico
